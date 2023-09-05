@@ -9,5 +9,5 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 
 
 Игра:
-- []  Шутер, в стилистике первого doom,  
+- [ ]  Шутер, в стилистике первого doom,  
 2.
