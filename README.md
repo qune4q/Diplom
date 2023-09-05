@@ -6,3 +6,8 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 2. Прибыль
 3. Нейронка
 4. unity/яндекс.игры
+
+
+Игра:
+- []  Шутер, в стилистике первого doom,  
+2.
