@@ -15,3 +15,4 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 - [ ]  текстуры, материал, отсвещение, анимация, эффекты и т.д.
 - [ ]  запрограммировать уровни игры
 - [ ]  unity движок, рисовать в photoshop,
+![image](https://github.com/qune4q/Diplom/assets/50214016/f94f08f8-929b-422c-9931-66c3cc729753)
