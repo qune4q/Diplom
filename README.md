@@ -17,3 +17,5 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 - [ ]  unity движок, рисовать в photoshop,
 ![image](https://github.com/qune4q/Diplom/assets/50214016/f94f08f8-929b-422c-9931-66c3cc729753)
 Краткое описание(все вместе): Игра в стилистике DOOM, игрок играет за котенка, который путешествует по трубам и сражается с бродячими псами, проходя дальше по сюжету, цель, дойти до конца и пройти финального босса и вернутся к своей семье.(Игра будет сделано на unity движке, язык C#, модельки будут рисоваться и делаться в photoshop и blender)
+ПО: Unity
+![image](https://github.com/qune4q/Diplom/assets/50214016/3031ebf1-b3a0-4570-bae3-990275cf9de3)
